@@ -1,2 +1,7 @@
-# substrate-recipes
-I'm learning Substrate framework to build blockchains. Actually, we can't learn to build blockchains by reading alone. So I created this repo to play with the Substrate code.
+# Useful Resources
+- Substate Docs: `https://docs.substrate.io/`
+- Substrate Recipes: `https://substrate.recipes/`
+
+# Communities
+- Stack Overflow: `https://stackoverflow.com/questions/tagged/substrate`
+- Element channel: `https://app.element.io/#/room/!HzySYSaIhtyWrwiwEV:matrix.org`
